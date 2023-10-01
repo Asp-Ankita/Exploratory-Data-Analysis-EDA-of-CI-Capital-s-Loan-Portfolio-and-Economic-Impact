@@ -32,3 +32,8 @@ Examine the impact of education level on loan defaults by counting the number of
 Create a report showing the relationship between the number of loans granted each month and the respective unemployment rate. This report will help CI Capital understand how external factors like GDP and unemployment affect loan demand.  
 
 The project involves exploring these aspects of the data to provide valuable insights and recommendations to CI Capital for informed decision-making and policy development.
+
+# Dataset Description
+
+![image](https://github.com/Asp-Ankita/Exploratory-Data-Analysis-EDA-of-CI-Capital-s-Loan-Portfolio-and-Economic-Impact/assets/145435024/a2b1b1ee-7165-49a0-8cc9-812dd0efd524)
+
